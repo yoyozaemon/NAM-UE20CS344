@@ -12,3 +12,6 @@ Mobydick
 
 ## Handson - 4
 Community Detection
+
+## Handson - 5
+Generative Models
