@@ -12,7 +12,7 @@ The social graph can be used to gain insights into the social dynamics within a 
 You are given the social graph of students who attend an engineering college. Students attend courses provided by the engineering college. Two or more students/node can share/attend the same courses. Hence, each **node is a student labeled with their respective Stream of Engineering.** An **edge between two nodes/students will represent that those two students share/attend the same class.**
 
 Visualizing this graph will be as per this image here. The legend provided in the top right gives the Streams for each student and how they are colored. The link between them shows that they share some same course.
-![alt text] (./res/img.jpg)
+![alt text](./res/img.jpg)
 
 
 ### What you need to do
